@@ -1,0 +1,1 @@
+# hashicorp-mv-secrets
