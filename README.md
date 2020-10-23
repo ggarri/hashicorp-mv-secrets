@@ -1,1 +1,3 @@
-# hashicorp-mv-secrets
+# Description
+
+Simple script to rename your HashiCorp secrets
